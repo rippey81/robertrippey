@@ -28,7 +28,7 @@
 
 ## 🗂️ Featured Projects
 
-- [`sysadmin-lab`](https://github.com/robertrippey/sysadmin-lab): My personal 60-day sysadmin bootcamp journey — fully documented with code snippets, tips, and lessons learned.
+- [`sysadmin-lab`](https://github.com/rippey81/sysadmin-lab): My personal 60-day sysadmin bootcamp journey — fully documented with code snippets, tips, and lessons learned.
 
 ---
 
